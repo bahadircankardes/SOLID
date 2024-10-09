@@ -1,4 +1,7 @@
 ﻿using System;
+using System.IO;
+using System.Security.Cryptography;
+
 namespace SRP.Validate
 {
 	internal class Logger
@@ -12,12 +15,15 @@ namespace SRP.Validate
             this.msg = msg;
             this.Logla(msg);
         }
-	}
 
-    public bool Logla(string msg)
-    {
-        File.WriteAllText(dosya, msg);
-        return true;
-    }
+        public bool Logla(string msg)
+        {
+            File.WriteAllText(dosya, msg);
+            return true;
+        }
+
+    
+}
+
 }
 
