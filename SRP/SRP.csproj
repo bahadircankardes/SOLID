@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Ornek\" />
+    <None Remove="Validate\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Ornek\" />
+    <Folder Include="Validate\" />
+  </ItemGroup>
 </Project>
