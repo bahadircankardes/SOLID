@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="CoffeeSample\" />
+    <None Remove="Validate\" />
+    <None Remove="Validate\Abstract\" />
+    <None Remove="Validate\Concrete\" />
+    <None Remove="Ornek2\" />
+    <None Remove="Ornek2\Validate\" />
+    <None Remove="Ornek2\Validate\Abstract\" />
+    <None Remove="Ornek2\Validate\Concrete\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CoffeeSample\" />
+    <Folder Include="Validate\" />
+    <Folder Include="Validate\Abstract\" />
+    <Folder Include="Validate\Concrete\" />
+    <Folder Include="Ornek2\" />
+    <Folder Include="Ornek2\Validate\" />
+    <Folder Include="Ornek2\Validate\Abstract\" />
+    <Folder Include="Ornek2\Validate\Concrete\" />
+  </ItemGroup>
+</Project>

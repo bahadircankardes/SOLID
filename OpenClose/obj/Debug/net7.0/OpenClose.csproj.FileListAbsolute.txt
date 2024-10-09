@@ -1,0 +1,15 @@
+/Users/bahadircankardes/Projects/SOLID/OpenClose/bin/Debug/net7.0/OpenClose
+/Users/bahadircankardes/Projects/SOLID/OpenClose/bin/Debug/net7.0/OpenClose.deps.json
+/Users/bahadircankardes/Projects/SOLID/OpenClose/bin/Debug/net7.0/OpenClose.runtimeconfig.json
+/Users/bahadircankardes/Projects/SOLID/OpenClose/bin/Debug/net7.0/OpenClose.dll
+/Users/bahadircankardes/Projects/SOLID/OpenClose/bin/Debug/net7.0/OpenClose.pdb
+/Users/bahadircankardes/Projects/SOLID/OpenClose/obj/Debug/net7.0/OpenClose.csproj.AssemblyReference.cache
+/Users/bahadircankardes/Projects/SOLID/OpenClose/obj/Debug/net7.0/OpenClose.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahadircankardes/Projects/SOLID/OpenClose/obj/Debug/net7.0/OpenClose.AssemblyInfoInputs.cache
+/Users/bahadircankardes/Projects/SOLID/OpenClose/obj/Debug/net7.0/OpenClose.AssemblyInfo.cs
+/Users/bahadircankardes/Projects/SOLID/OpenClose/obj/Debug/net7.0/OpenClose.csproj.CoreCompileInputs.cache
+/Users/bahadircankardes/Projects/SOLID/OpenClose/obj/Debug/net7.0/OpenClose.dll
+/Users/bahadircankardes/Projects/SOLID/OpenClose/obj/Debug/net7.0/refint/OpenClose.dll
+/Users/bahadircankardes/Projects/SOLID/OpenClose/obj/Debug/net7.0/OpenClose.pdb
+/Users/bahadircankardes/Projects/SOLID/OpenClose/obj/Debug/net7.0/OpenClose.genruntimeconfig.cache
+/Users/bahadircankardes/Projects/SOLID/OpenClose/obj/Debug/net7.0/ref/OpenClose.dll

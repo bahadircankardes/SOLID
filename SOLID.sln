@@ -5,6 +5,10 @@ VisualStudioVersion = 25.0.1706.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP", "SRP\SRP.csproj", "{7B6BF042-59E3-4520-AB98-1FB58B31CF46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClose", "OpenClose\OpenClose.csproj", "{C191423B-D6C2-4067-9DAB-995AC14130B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMVC", "WebMVC\WebMVC.csproj", "{69AF1F67-F9A4-4EF5-93AE-5DC65FCB8043}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7B6BF042-59E3-4520-AB98-1FB58B31CF46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B6BF042-59E3-4520-AB98-1FB58B31CF46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B6BF042-59E3-4520-AB98-1FB58B31CF46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C191423B-D6C2-4067-9DAB-995AC14130B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C191423B-D6C2-4067-9DAB-995AC14130B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C191423B-D6C2-4067-9DAB-995AC14130B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C191423B-D6C2-4067-9DAB-995AC14130B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69AF1F67-F9A4-4EF5-93AE-5DC65FCB8043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69AF1F67-F9A4-4EF5-93AE-5DC65FCB8043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69AF1F67-F9A4-4EF5-93AE-5DC65FCB8043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69AF1F67-F9A4-4EF5-93AE-5DC65FCB8043}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
