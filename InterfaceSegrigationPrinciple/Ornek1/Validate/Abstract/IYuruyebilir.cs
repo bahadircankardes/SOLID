@@ -3,6 +3,8 @@ namespace InterfaceSegrigationPrinciple.Ornek1.Validate.Abstract
 {
 	public interface IYuruyebilir
 	{
-	}
+        public void Yuru();
+
+    }
 }
 

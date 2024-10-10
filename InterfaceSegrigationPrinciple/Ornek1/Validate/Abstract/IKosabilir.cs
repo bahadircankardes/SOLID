@@ -3,6 +3,8 @@ namespace InterfaceSegrigationPrinciple.Ornek1.Validate.Abstract
 {
 	public interface IKosabilir
 	{
-	}
+        public void Kos();
+
+    }
 }
 
