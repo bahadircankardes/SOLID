@@ -1,0 +1,15 @@
+/Users/bahadircankardes/Projects/SOLID/LSP/bin/Debug/net7.0/LSP
+/Users/bahadircankardes/Projects/SOLID/LSP/bin/Debug/net7.0/LSP.deps.json
+/Users/bahadircankardes/Projects/SOLID/LSP/bin/Debug/net7.0/LSP.runtimeconfig.json
+/Users/bahadircankardes/Projects/SOLID/LSP/bin/Debug/net7.0/LSP.dll
+/Users/bahadircankardes/Projects/SOLID/LSP/bin/Debug/net7.0/LSP.pdb
+/Users/bahadircankardes/Projects/SOLID/LSP/obj/Debug/net7.0/LSP.csproj.AssemblyReference.cache
+/Users/bahadircankardes/Projects/SOLID/LSP/obj/Debug/net7.0/LSP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahadircankardes/Projects/SOLID/LSP/obj/Debug/net7.0/LSP.AssemblyInfoInputs.cache
+/Users/bahadircankardes/Projects/SOLID/LSP/obj/Debug/net7.0/LSP.AssemblyInfo.cs
+/Users/bahadircankardes/Projects/SOLID/LSP/obj/Debug/net7.0/LSP.csproj.CoreCompileInputs.cache
+/Users/bahadircankardes/Projects/SOLID/LSP/obj/Debug/net7.0/LSP.dll
+/Users/bahadircankardes/Projects/SOLID/LSP/obj/Debug/net7.0/refint/LSP.dll
+/Users/bahadircankardes/Projects/SOLID/LSP/obj/Debug/net7.0/LSP.pdb
+/Users/bahadircankardes/Projects/SOLID/LSP/obj/Debug/net7.0/LSP.genruntimeconfig.cache
+/Users/bahadircankardes/Projects/SOLID/LSP/obj/Debug/net7.0/ref/LSP.dll

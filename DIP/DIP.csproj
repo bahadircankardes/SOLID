@@ -9,14 +9,18 @@
 
   <ItemGroup>
     <None Remove="Ornek1\" />
-    <None Remove="Validate\" />
-    <None Remove="Validate\Abstract\" />
-    <None Remove="Validate\Concrete\" />
+    <None Remove="Ornek1\Validate\" />
+    <None Remove="RestoranOrnegi\" />
+    <None Remove="RestoranOrnegi\Validate\" />
+    <None Remove="RestoranOrnegi\Validate\Abstract\" />
+    <None Remove="RestoranOrnegi\Validate\Conrete\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Ornek1\" />
-    <Folder Include="Validate\" />
-    <Folder Include="Validate\Abstract\" />
-    <Folder Include="Validate\Concrete\" />
+    <Folder Include="Ornek1\Validate\" />
+    <Folder Include="RestoranOrnegi\" />
+    <Folder Include="RestoranOrnegi\Validate\" />
+    <Folder Include="RestoranOrnegi\Validate\Abstract\" />
+    <Folder Include="RestoranOrnegi\Validate\Conrete\" />
   </ItemGroup>
 </Project>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lwbFA0S+fyhG0B0GvO7APmQCW8VB6gYDB1fR+sscZ28wmIC/+mh2432VNHdduCNT5LwjRKajrG05GKX1Jbpxjw==",
+  "success": true,
+  "projectFilePath": "/Users/bahadircankardes/Projects/SOLID/IOC_Unity/IOC_Unity.csproj",
+  "expectedPackageFiles": [
+    "/Users/bahadircankardes/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/bahadircankardes/.nuget/packages/unity/5.11.10/unity.5.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}
